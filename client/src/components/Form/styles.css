@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+.form-div{
+    /* background-color: aqua; */
+    margin: 1rem;
+    padding: 1rem;
+    
+}
+input{
+    margin: 1rem;
+    padding: 1rem;
+    width: 15rem;
+    
+}
+textarea{
+    margin: 1rem;
+    padding: 1rem;
+    width: 15rem;
+    height: 20rem;
+    
+    resize: none;
+
+}
