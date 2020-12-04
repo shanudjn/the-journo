@@ -10,8 +10,10 @@ const Post = () => {
                 Jhsajdhjkahdkahdahdkajdhakdhad
             </p>
             <p>
-                afjhadkfhajfhakjkjdhdjakdhsdjkahdkas
+                afjhadkfhajfhakjkjdhdjakdhsdjkahdkassdfdsfgfgshfgsfhsfhgsdgfhjsdgfsjdfhgsdjfgsjfgsdjfg
+                adasdadadadadadadadadadas
             </p>
+            <button>Read More</button>
 
         </div>
     )
