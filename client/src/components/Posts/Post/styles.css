@@ -12,4 +12,9 @@
     padding: 0.5rem;
     border: 2px solid #333333;
     border-radius: 0.2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+.post button:hover{
+    font-weight: lighter;
 }

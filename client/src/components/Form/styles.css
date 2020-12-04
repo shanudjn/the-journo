@@ -10,6 +10,7 @@ input{
     margin: 1rem;
     padding: 1rem;
     width: 15rem;
+    opacity: 0.8;
     
 }
 textarea{
@@ -17,7 +18,7 @@ textarea{
     padding: 1rem;
     width: 15rem;
     height: 20rem;
-    
+    opacity: 0.8;
     resize: none;
 
 }
